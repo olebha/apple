@@ -1,0 +1,42 @@
+@media(max-width:1000px){
+    .phones-card{
+        width: 90%;
+        display: block;
+    }
+    .phones{
+        height: 330vh;
+        width: ;
+    }
+    .container{
+        width: 90%;
+    }
+    .advantages-card{
+        width: 80%;
+        display: block;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .materials-card{
+        display: block;
+        width: 90%;
+        margin-bottom: 10px;
+    }
+    .security-bg{
+        position: static;
+        width: 100%;
+        
+    }
+    .security-content{
+        width: 100%;
+    }
+    .iphone-content{
+        width: 90%;
+        position: static;
+        transform: none;
+        margin-top: 150px;
+    }
+    .footer-card{
+        display: block;
+        width: 100%;
+    }
+}
