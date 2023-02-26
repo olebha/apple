@@ -24,6 +24,7 @@
     .security-bg{
         position: static;
         width: 100%;
+        background-size: 100%;
         
     }
     .security-content{
@@ -38,5 +39,23 @@
     .footer-card{
         display: block;
         width: 100%;
+    }
+    .header{
+        height: 150vh;
+        background-attachment: scroll;
+    }
+    .differences-content{
+        position: static;
+        width:100%;
+        text-align: left;
+    }
+    .materials{
+        background-attachment: scroll;
+    }
+    .phones-img:hover{
+        transform: none;
+    }
+    .iphone{
+        background-size: 110%;
     }
 }
